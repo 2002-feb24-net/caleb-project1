@@ -1,0 +1,9 @@
+C:\revature\caleb-project1\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.deps.json
+C:\revature\caleb-project1\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\revature\caleb-project1\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.csprojAssemblyReference.cache
+C:\revature\caleb-project1\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.AssemblyInfoInputs.cache
+C:\revature\caleb-project1\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.AssemblyInfo.cs
+C:\revature\caleb-project1\BookStore.Domain\bin\Debug\netcoreapp3.1\BookStore.Domain.pdb
+C:\revature\caleb-project1\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\revature\caleb-project1\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.dll
+C:\revature\caleb-project1\BookStore.Domain\obj\Debug\netcoreapp3.1\BookStore.Domain.pdb
